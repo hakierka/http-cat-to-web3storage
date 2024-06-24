@@ -55,7 +55,7 @@ We use axios to download HTML content and cheerio to parse the HTML and extract 
 - Use the "Upload" feature to manually upload the index.html, image files, and CSS files you downloaded.
 - Follow the prompts to complete the upload process.
 
-### Access Your Uploaded Content
+### Access Uploaded Content
 You can access the uploaded content via the following URL:
 https://bafybeica2wh4dx3jo6o2xzu5tm5jqweo6svki4jlzqhaiw3yvj5kmqueqm.ipfs.w3s.link/
 
