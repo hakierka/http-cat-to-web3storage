@@ -34,7 +34,8 @@ This project involves the following steps:
    cd http-cat-to-web3storage
 2. Install the required dependencies:
    ```sh
-   npm install
+   npm install axios cheerio
+We use axios to download HTML content and cheerio to parse the HTML and extract image and CSS links.
 
 ## Usage 
 
